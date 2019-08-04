@@ -9,8 +9,8 @@ import br.com.sistema.farmacia.model.domain.Fornecedores;
 public class testeFarmacia {
 
 	public static void main(String[] args) {		
-		//chamarConexao();
-		testCadastrar();
+		chamarConexao();
+		//testCadastrar();
 		//testAlterar();
 		//testdeletar();
 		//testBuscar();
